@@ -10,7 +10,7 @@ from telegram.ext import (
     filters,
 )
 
-TOKEN = "8076710235:AAFt0LnGTsB41pw-YQmhLONLLo2lmmpKHjg"
+TOKEN = "your_token"
 AUTHORIZED_USER = 1166325884
 
 
